@@ -60,6 +60,144 @@ Quiero estar con vos
   `,
    "https://open.spotify.com/track/03K8vuHB10eexSIsxO8iIW?si=38346151e633488a",
    "https://www.youtube.com/watch?v=Jx28ZJdnO0c"],
+"Huracán": [`
+Cejilla en 5º traste
+
+[Intro] G D Em C (x2)
+
+SOL                    RE
+Me he hecho tantas preguntas
+MIm              DO
+intentando entender,
+SOL                 RE
+me he lanzado a buscarte
+     MIm     DO
+sin saberte ver.
+
+SOL                RE
+Me he asomado al abismo,
+MIm                 DO
+me he atrevido a saltar
+    SOL RE MIm DO7
+y caer.
+
+        SOL  RE        MIm                 DO
+Y un huracán romperá el cielo desde mi garganta
+       SOL           RE                  MIm    DO7
+gritándote "¿dónde estás cuando me haces falta?"
+
+[Instrumental]
+SOL  RE  MIm  DO (x2)
+
+SOL               RE
+Y me han dado respuestas
+MIm               DO
+pero no se qué hacer,
+SOL             RE
+he prometido seguirte
+   MIm    DO
+sin entender.
+
+SOL                 RE
+Y hay un eco en lo hondo
+MIm                DO
+Que me empuja hacia Ti,
+SOL                 RE
+y aunque sea sin sentirte
+  MIm   DO
+te buscaré.
+
+        SOL  RE        MIm                 DO
+Y un huracán romperá el cielo desde mi garganta
+       SOL           RE                  MIm     DO
+gritándote "¿dónde estás cuando me haces falta?"
+        SOL  RE        MIm                 DO
+Y un huracán romperá el cielo desde mi garganta
+       SOL            RE                 MIm     DO
+gritándote "¿dónde estás cuando me haces falta?"
+
+        SOL         LAm
+Estoy aquí, en el silencio,
+        SIm7        DO9
+estoy aquí, en este viento,
+        MIm          RE         DO
+estoy aquí, soy este trozo de pan.
+       SOL           LAm
+Estoy aquí, en tu lamento,
+        SIm7        DO9
+estoy aquí, en este eco,
+        MIm          RE        DO  DO7
+estoy aquí, soy este trozo de pan.
+
+        SOL  RE        MIm                DO
+Y un huracán romperá el cielo desde mi garganta
+        SOL          RE                  MIm    DO
+gritándote "¿dónde estás cuando me haces falta?"
+        SOL  RE        MIm                 DO
+Y un huracán romperá el cielo desde mi garganta
+        SOL        SI7                 MIm
+gritándote "¿dónde estás cuando me haces falta?"
+
+       SOL  RE        MIm                DO
+Y un huracán romperá el cielo desde mi garganta
+(Estoy aquí)    (Estoy aquí)
+       SOL           RE          SI7   MIm     DO
+gritándote "¿dónde estás cuando me haces falta?"
+(Estoy aquí, soy este trozo de pan)
+        SOL  LAm         SIm                 DO
+Y un huracán romperá el cielo desde mi garganta
+(Estoy aquí)    (Estoy aquí)
+    RE    MIm          RE           SI7     DO
+gritándote "¿dónde estás cuando me haces falta?"
+(Estoy aquí, soy este trozo de pan)
+
+        SOL        RE   MIm               DO
+Y tu huracán romperá el cielo desde mi garganta
+        SOL          RE         SOL
+gritándome cuánto me haces falta.
+  `,
+   "https://open.spotify.com/intl-es/track/1Gd6Hz1MSEiY8205ToJjsh?si=84fa8590c2594f30",
+   "https://youtu.be/P2Kf8RsxuiA?si=KzBnVJdly4gWEqMR"],
+"Como antes, más que antes": [`
+RE LA SIm SOL
+Como antes, más que antes, Amor, 
+RE LA SIm SOL
+Sopla Tu viento, ven Espíritu de Amor;
+RE LA SIm SOL
+Enciende el Fuego que da vida en comunión,
+SIm MIm LA RE
+Siembra Tu huerto, inunda mi corazón.
+
+Como antes, más que antes, Amor.
+Sopla tu viento, ven Espíritu de Amor
+Alienta el alma, da esperanza, da calor,
+Tú me conoces y me amas como soy.
+
+RE LA SIm SOL
+Como antes, más que antes. 
+RE LA SIm (SI7)
+Como antes, más que antes.
+
+MI SI DO#m LA
+Como antes, más que antes, Amor, 
+MI SI DO#m LA
+Sopla Tu viento, ven Espíritu de Amor;
+MI SI DO#m LA
+Enciende el fuego que da vida en comunión,
+DO#m FA#m SI7 MI
+Siembra Tu huerto, inunda mi corazón.
+
+Como antes, más que antes, Amor.
+Sopla Tu viento, ven Espíritu de Amor
+Alienta el alma, da esperanza, da calor...
+Tú me conoces y me amas como soy.
+
+MI SI DO#m LA
+Como antes, más que antes, 
+Amor
+  `,
+   "https://open.spotify.com/intl-es/track/2SZI9A9IRTCNP9RuKdNTY7?si=8a9e1d5f040342fd",
+   "https://youtu.be/KpaSQqDka3s?si=76EBbNTIjXfdQ7Wr"],
 
   "Dime Rey":[`
 SOL                      RE
@@ -153,6 +291,71 @@ Corazones sedientos de paz.
   `,
    "https://open.spotify.com/track/6pu8hHaPnU9h86EXcehDxz?si=4dc3b25809a44188",
     "https://www.youtube.com/watch?v=FfO0rfKNSto"],
+"Perdón":[`
+DO                  SOL
+Señor que perdido estoy 
+                   LAm                  FA
+No encuentro el camino, ya se ha ido el sol. 
+                DO                SOL
+Las nubes me cubren, ya no siento nada. 
+                 LAm                     FA
+Mis culpas me atrapan, mis fuerzas me fallan. 
+
+DO          SOL
+Si solo tal vez, 
+           LAm               FA             FA
+me dices porqué yo vuelvo a caer de nuevo, señor 
+             SOL              LAm
+No puedo, esta vez, ya me derrumbe. 
+              FA                   FAm
+Y caigo a tus pies perforados, yo puse esos clavos. 
+
+
+   DO          SOL            LAm
+Hoy vuelvo a gritar tu nombre Señor 
+               FA            DO
+se mueve esta culpa en mi corazón. 
+             SOL           LAm
+Me siento querido y arrepentido, 
+           FA               DO
+no puedo mirarte te pido perdón. 
+               SOL                LAm
+Confieso mis faltas, con eso no alcanza. 
+              FA               DO
+Luego tu me abrazas y siento calor 
+               SOL                 LAm
+Encuentro tus ojos, tan puros tan claros, 
+               FA                   FAm
+Los míos con llanto tan tristes e insanos 
+           DO              SOL
+te dicen perdón, te ruego perdón 
+            LAm              FA    FAm
+te claman Señor me quedo con vos. 
+
+             DO                 SOL
+Ya calma mi niño, ven no llores más 
+               LAm                       FA
+Tu mancha he borrado, bien limpio has quedado 
+            DO                SOL
+Vive en el amor, como lo hice yo 
+             LAm                FA
+Camina a mi lado, tu fe te ha salvado 
+             DO  SOL  LAm  FA
+Ya no llores más, 
+
+             DO                 SOL
+Ya calma mi niño, ven no llores más 
+               LAm                       FA
+Tu mancha he borrado, bien limpio has quedado 
+            DO                SOL
+Vive en el amor, como lo hice yo 
+            LAm                 FA
+Camina a mi lado, tu fe te ha salvado 
+             DO SOL             DO
+Ya no llores más, y quédate en paz.
+  `,
+   "https://open.spotify.com/intl-es/track/1qw4AwLR6pAlXiE1pK44IS?si=7ec08e8b2c3a450e",
+    "https://youtu.be/oI7muT07lKk?si=NPD4k0K474sODuHS"],
 
   "Alma de Cristo":[`
       DO        LA#  FA  DO
