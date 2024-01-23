@@ -63,7 +63,7 @@ Quiero estar con vos
 "Huracán": [`
 Cejilla en 5º traste
 
-[Intro] G D Em C (x2)
+[Intro] SOL RE MIm DO (x2)
 
 SOL                    RE
 Me he hecho tantas preguntas
