@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="logo.png" type="image/x-icon">
+		<title>Input Song - Cancionero</title>
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=PT+Mono&display=swap" rel="stylesheet">
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<link href="diseño.css" rel="stylesheet">
+    <script src="canciones.js"></script>
+    <script src="import-data.js"></script>
+	</head>
+	<body>
+		<div class="navigation-bar">
+			<nav>
+			  <a href="index.html">INICIO</a> |
+			  <a href="input.html">Ingresar Canción</a>
+			</nav>
+		</div>
+		<h1 class="input-title">Ingresar Canción</h1>
+    <div class="input-directions">
+      <h3> Ingresa en el campo inferior la letra y los acordes de la canción a agregar, siguiendo:</h3>
+      <ul>
+        <li>El formato debe ser similar a las demás canciones en la lista ya disponibles.</li>
+        <li>Las líneas de texto deberían intercalarse, de manera que los acordes estén sobre la palabra cuando se toca.</li>
+        <li>Para posicionar los acordes, no usar <kbd>Tab</kbd>, sino <kbd>Espacio</kbd></li>
+        <li>Disponer de las letras en versos, que comienzen con mayúscula y que estén posicionados en distintas líneas.</li>
+        <li>Las notas de los acordes siempre deberían escribirse en mayúscula, aunque las variaciones se escriben de la siguiente manera, ej.: REm - DO#Dism - SOL7.</li>
+        <li>Las posibles notas se escriben: DO - RE - MI - FA - SOL -  LA - SI; y no: C - D - F - G - A - B.</li>
+      </ul>
+    </div>
+    <div class="input-field">
+      <form id="form-song">
+        <input text="text" id="song-input-title" name="Canción-Nombre"><br><br>
+        <textarea type="text" id="song-input-text" name="Cancion"></textarea><br><br>
+        <button id="pseudo-submit-but">Subir</button>
+      </form>
+    </div>
+
+	</body>
+    <script>
+
+      $("#pseudo-submit-but").click(function( event ) {
+        event.preventDefault();
+
+        saveFile();
+
+        /*
+        alert("click");
+        var value = $('#song-input-text').val();
+        value = value.replace(/\r?\n/g,'<br/>');
+        var songTitle = $("#song-input-title").val();
+
+        var existentSongs = Object.keys(canciones);
+        existentSongs = existentSongs.map(function(x){ return x.toUpperCase(); });
+
+        if(!(existentSongs.includes(songTitle.toUpperCase()))){
+          alert("se subió canción:")
+          console.log(songTitle+" : "+[value,"TONO","MODO"]);
+          canciones[songTitle] = [value,"TONO","MODO"];
+        }
+        */
+      });
+
+
+    </script>
+</html>
