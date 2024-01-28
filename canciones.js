@@ -303,7 +303,7 @@ Mis culpas me atrapan, mis fuerzas me fallan.
 
 DO          SOL
 Si solo tal vez, 
-           LAm               FA             FA
+           LAm               FA             DO
 me dices porqué yo vuelvo a caer de nuevo, señor 
              SOL              LAm
 No puedo, esta vez, ya me derrumbe. 
