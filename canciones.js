@@ -116,17 +116,17 @@ Y un huracán romperá el cielo desde mi garganta
        SOL            RE                 MIm     DO
 gritándote "¿dónde estás cuando me haces falta?"
 
-        SOL         LAm
+        SOL         RE
 Estoy aquí, en el silencio,
-        SIm7        DO9
+        MIm7        DO9
 estoy aquí, en este viento,
-        MIm          RE         DO
+        SOL          RE         DO
 estoy aquí, soy este trozo de pan.
-       SOL           LAm
+       SOL           RE
 Estoy aquí, en tu lamento,
-        SIm7        DO9
+        MIm7        DO9
 estoy aquí, en este eco,
-        MIm          RE        DO  DO7
+        SOL          RE        DO  DO7
 estoy aquí, soy este trozo de pan.
 
         SOL  RE        MIm                DO
