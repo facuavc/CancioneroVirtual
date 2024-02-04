@@ -141,13 +141,13 @@ gritándote "¿dónde estás cuando me haces falta?"
        SOL  RE        MIm                DO
 Y un huracán romperá el cielo desde mi garganta
 (Estoy aquí)    (Estoy aquí)
-       SOL           RE          SI7   MIm     DO
+       SOL           RE             MIm     DO
 gritándote "¿dónde estás cuando me haces falta?"
 (Estoy aquí, soy este trozo de pan)
-        SOL  LAm         SIm                 DO
+       SOL  RE        MIm                DO
 Y un huracán romperá el cielo desde mi garganta
 (Estoy aquí)    (Estoy aquí)
-    RE    MIm          RE           SI7     DO
+       SOL           RE             MIm     DO
 gritándote "¿dónde estás cuando me haces falta?"
 (Estoy aquí, soy este trozo de pan)
 
