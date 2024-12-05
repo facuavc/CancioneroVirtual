@@ -3862,7 +3862,7 @@ DO#m       SI         LA DO#m   SI             LA
   No me quiero conformar, he probado y quiero más
 
 Coro
-MI                           B/D#                         DO#m
+MI                          SI/RE#                         DO#m
 Yo quiero enamorarme más de Ti, enséñame a amarte y a vivir
                  SI            LA              LA/DO#  SI/RE# MI
 Conforme a tu Justicia y tu verdad, con mi vida quiero adorar
@@ -3985,5 +3985,53 @@ Y que los dos no queremos sin Vos
 La tengo que sacar, ups.
 `,
   "https://open.spotify.com/intl-es/track/28BXMaDpFYpcB9qNChNN9h?si=a44b76ff742043a6",
-  "https://www.youtube.com/watch?v=7_-6XK5W2t0&pp=ygUfbWFkcmUgZGUgZ3JhY2lhIGJpZW5hdmVudHVyYWRvcw%3D%3D"]
+  "https://www.youtube.com/watch?v=7_-6XK5W2t0&pp=ygUfbWFkcmUgZGUgZ3JhY2lhIGJpZW5hdmVudHVyYWRvcw%3D%3D"],
+	"Hágase mi paz":[`
+DO                            RE9(11)
+Vuelve con el viento el viejo sueño
+                            MIm
+De una paz que dure como el sol
+DO                         RE9(11)
+Vuelve y esta vez serán tus manos
+                        MIm
+Y las mías las que den calor
+DO                        RE9(11)
+Porque en ese hondo abrazo libre
+SOL     RE   MIm          DO
+Se tejerá el perdón de tu paz
+       RE
+De tu paz
+DO                              RE9(11)
+Señor este es el tiempo, este el lugar
+                        MIm
+Esta es la hora para el corazón
+DO                     RE9(11)
+Y dejar por un rato la ansiedad de
+                            MIm
+Hacerlo todo para ser quien soy
+DO                          RE9(11)
+Y tan sereno entonces ver el verdadero rostro
+SOL   RE         MIm
+De tu hermano en Dios
+DO                    RE
+Estamos en paz, en tu paz
+SOL  RE    MIm
+Hágase mi paz, hágase mi paz (X4)
+DO                        RE9(11)              MIm
+Dos son necesarios para declarar la guerra y la división
+DO                        RE9(11)              MIm
+Como tus discípulos también es necesario ir de dos en dos
+DO                       RE9(11)             SOL RE MIm
+Entonces cada envió es un rio que desborda de revolución
+           DO            RE
+Hoy con María llevamos tu paz
+SOL  RE  MIm
+Hágase mi paz, hágase mi paz (X4)
+DO                           RE9(11)
+Vuelve con el viento el viejo sueño
+                           MIm
+De una paz que dure como el sol
+`,
+  "https://open.spotify.com/intl-es/track/3deffRefrDCUVANZOAAm8v?si=2f82c8dcfaf44191",
+  "https://www.youtube.com/watch?v=wuwpXut8tz4&pp=ygUOSMOBR0FTRSBNSSBQQVo%3D"]
 }
