@@ -3787,5 +3787,106 @@ Conozco tu corazón, conozco tu realidad,
 sé todo de ti, y en nadie más puedes ser feliz, solo en mí.
 `,
   "https://open.spotify.com/track/5n5QjsyI7IdomhllHhwbKY?si=bf1e0ec55f9d4763",
-  "https://www.youtube.com/watch?v=ZAr8bfP-7LY"]
+  "https://www.youtube.com/watch?v=ZAr8bfP-7LY"],
+	"Madero de Amor":[`
+SOL         DO      
+En esta tarde, Jesús amigo,
+MIm      RE        DO
+vine a rogarte por mí 
+SOL          DO     
+Pero al verte tan herido,
+MIm       RE           DO
+ya no pienso más en mi, 
+MIm         RE          SOL
+quiero quedarme por Ti
+
+SOL        DO     
+Veo en tus ojos, Jesús amigo, 
+MIm       RE       DO
+a toda la humanidad
+SOL         DO                 MI
+Cargaste solo, nuestros dolores
+           RE                DO
+te entregaste hasta el final, 
+MIm          RE     DO
+por amor a los demás 
+
+SOL           DO                  SOL
+Que mi corazón se abra a tu Gracia                              
+                  RE                         MIm
+Que lleve tu Amor adonde quieras que yo vaya                        
+               DO                  SOL     RE
+Y que tú costado derrame esa Agua de Vida
+
+ SOL                  DO           
+¿Como explicarte mis soledades, 
+MIm             RE       DO
+si el mundo te abandonó?
+SOL                        DO
+¿Cómo mostrarte mis pies cansados, 
+MIm          RE         DO     MIm     D     C
+si fuiste vos quien cargó un madero de amor?
+
+SOL            DO                 SOL
+Que mi corazón se abra a tu Gracia
+               RE                           MIm
+Que lleve tu Amor adonde quieras que yo vaya               
+              DO                   SOL    RE
+Y que tú costado derrame esa Agua de Vida
+
+SOL    DO           MIm
+Con amor, con dolor,
+          DO            SOL
+con esperanza y alegría
+         DO        MIm
+Por tu amor crucificado, 
+DO      RE  SOL
+Jesús amigo
+`,
+  "https://open.spotify.com/intl-es/track/123JkL0V1Fw0QWNzvFsc2N?si=8997a1c474bf4aa9",
+  "https://www.youtube.com/watch?v=ptqQWXZN6hQ&pp=ygUObWFkZXJvIGRlIGFtb3I%3D"],
+	"Perfume a tus pies":[`
+Intro: ////MI SI DO#m LA////
+
+MI                   SI                 LA
+Cuando pienso en tu amor y en tu fidelidad
+                SI                      MI
+No puedo hacer más que postrarme y adorar
+                          SI                          LA
+Cuando pienso en como he sido y hasta donde me has traído
+              SI
+Me asombro de Ti
+
+Pre-coro
+DO#m       SI         LA DO#m   SI             LA
+  No me quiero conformar, he probado y quiero más
+
+Coro
+MI                           B/D#                         DO#m
+Yo quiero enamorarme más de Ti, enséñame a amarte y a vivir
+                 SI            LA              LA/DO#   B/D# MI
+Conforme a tu Justicia y tu verdad, con mi vida quiero adorar
+                                B/D#                           DO#m
+Con todo lo que tengo y lo que soy, todo lo que he sido te lo doy
+             SI      LA           LA/DO#   B/D# LA
+Que mi vida sea para ti como un perfume a tus pies
+
+
+MI                   SI                         LA
+Cuando pienso en tu cruz y en todo lo que has dado
+              SI                   MI
+Tu sangre por mi, por llevar mi pecado
+                     SI                            LA
+Cuando pienso en tu mano, que hasta aquí hemos llegado
+              SI
+Por tu fidelidad
+
+Puente
+MI                SI              DO#m
+Que nuestras vidas sean derramadas
+        LA
+Ante ti  el único digno de gloria
+`,
+  "https://open.spotify.com/intl-es/track/5rqrTFRUOux1bfmswRCbJN?si=91458cc0877b4ecf",
+  "https://www.youtube.com/watch?v=yFsfs5fw32s&pp=ygUScGVyZnVtZSBhIHR1cyBwaWVz"]
 }
