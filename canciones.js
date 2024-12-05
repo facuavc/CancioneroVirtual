@@ -3888,5 +3888,102 @@ Que nuestras vidas sean derramadas
 Ante ti  el único digno de gloria
 `,
   "https://open.spotify.com/intl-es/track/5rqrTFRUOux1bfmswRCbJN?si=91458cc0877b4ecf",
-  "https://www.youtube.com/watch?v=yFsfs5fw32s&pp=ygUScGVyZnVtZSBhIHR1cyBwaWVz"]
+  "https://www.youtube.com/watch?v=yFsfs5fw32s&pp=ygUScGVyZnVtZSBhIHR1cyBwaWVz"],
+	"Hijo Amado":[`
+SI
+Mucho en mi cabeza 
+SOL#m                MI 
+Todo lo que me pesa hoy 
+                 SI FA# 
+Te lo entrego a Vos 
+
+SI
+Busco, quiero encontrarte 
+SOL#m 
+Sigo hacia ninguna parte 
+MI
+No me canso de extrañarte 
+              SI FA# 
+Quiero ir con Vos 
+
+MI
+Porque al recordar vuelvo a pasar 
+SI       FA# 
+Por el corazón 
+MI
+Porque al recordar vuelvo a pasar 
+SI       FA# 
+Por el corazón 
+
+SI
+Reconocerme hijo amado 
+SOL#m 
+Entender que yo fui salvado 
+MI
+Que por Vos yo no soy juzgado 
+              FA#m 
+Y que me amas así 
+
+SI
+Y poder mirar al de al lado 
+SOL#m 
+Y quererlo como a un hermano 
+MI                          FA#m 
+Y saber que él cae igual que yo 
+
+MI               FA#       SI SI 
+Y que los dos no crecemos sin Vos 
+MI               FA#         SI 
+Y que los dos no queremos sin Vos 
+
+SI
+Cierro todas mis puertas 
+SOL#m 
+Y solamente busco respuestas 
+MI                              SI  FA# 
+Y me doy cuenta que estoy en la oscuridad 
+
+SI                        SOL#m 
+Al escuchar tu constante invitación 
+MI                                SI FA# 
+¿Cómo rechazarla, si Vos me das lo mejor? 
+
+MI                               SOL#m              
+Verte en lo pequeño y saber que me hiciste para algo
+  FA#
+inmenso
+MI                                SI          
+Verte en lo pequeño y saber que nací para algo
+ FA#
+inmenso
+
+
+SI
+Reconocerme hijo amado 
+SOL#m 
+Entender que yo fui salvado 
+MI
+Que por Vos yo no soy juzgado 
+              FA#m 
+Y que me amas así 
+
+SI
+Y poder mirar al de al lado 
+SOL#m 
+Y quererlo como a un hermano 
+MI                          FA#m 
+Y saber que él cae igual que yo 
+
+MI               FA#       SI SI 
+Y que los dos no crecemos sin Vos 
+MI               FA#         SI 
+Y que los dos no queremos sin Vos
+`,
+  "https://open.spotify.com/intl-es/track/1rEEbfzOZnw1e4jMKkZQq8?si=23ff42a30ee34454",
+  "https://www.youtube.com/watch?v=kKgtxWZlplM&pp=ygUKaGlqbyBhbWFkbw%3D%3D"],
+	"Madre de Gracia":[`
+La tengo que sacar, ups.
+`,
+  "https://open.spotify.com/intl-es/track/28BXMaDpFYpcB9qNChNN9h?si=a44b76ff742043a6",
+  "https://www.youtube.com/watch?v=7_-6XK5W2t0&pp=ygUfbWFkcmUgZGUgZ3JhY2lhIGJpZW5hdmVudHVyYWRvcw%3D%3D"]
 }
