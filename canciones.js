@@ -3824,7 +3824,7 @@ MIm             RE       DO
 si el mundo te abandonó?
 SOL                        DO
 ¿Cómo mostrarte mis pies cansados, 
-MIm          RE         DO     MIm     D     C
+MIm          RE         DO     MIm     RE    DO
 si fuiste vos quien cargó un madero de amor?
 
 SOL            DO                 SOL
@@ -3864,11 +3864,11 @@ DO#m       SI         LA DO#m   SI             LA
 Coro
 MI                           B/D#                         DO#m
 Yo quiero enamorarme más de Ti, enséñame a amarte y a vivir
-                 SI            LA              LA/DO#   B/D# MI
+                 SI            LA              LA/DO#  SI/RE# MI
 Conforme a tu Justicia y tu verdad, con mi vida quiero adorar
-                                B/D#                           DO#m
+                               SI/RE#                           DO#m
 Con todo lo que tengo y lo que soy, todo lo que he sido te lo doy
-             SI      LA           LA/DO#   B/D# LA
+             SI      LA           LA/DO#  SI/RE# LA
 Que mi vida sea para ti como un perfume a tus pies
 
 
