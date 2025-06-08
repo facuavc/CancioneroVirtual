@@ -563,6 +563,19 @@ y moldéame a tu modo.
 Sopla, y bautízame en tu brisa, sopla
 Renovame en tu sonrisa, sopla.
 
+Sopla Señor tu caricia, por sobre mis sentimientos
+Que sea el Ángel de Tú Misa, quien obre en todo momento.
+Sopla Señor y hazte canto, pon tu palabra en mis manos
+En ellas tu providencia y bendice a mis hermanos.
+
+Quiero ser de tu árbol rama, fruto nuevo de tu cielo
+Que madure en tu palabra, como un ave en pleno vuelo.
+
+Sopla, sopla Señor tu grandeza, sopla
+Hazme fiel en mi pobreza, sopla.
+y bautízame en tu brisa, sopla
+Renovame en tu sonrisa, sopla.
+
   `,
   "https://open.spotify.com/track/7DXwh3ogyKUbQ62vEseObR?si=54fbf49dde7042e6",
   "https://www.youtube.com/watch?v=x8Pv-7hxiy0"],
