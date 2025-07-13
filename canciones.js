@@ -2039,7 +2039,7 @@ LAm      FA                DO
 Surge valentía, disipa las dudas.
             SOL             LAm
 De este corazón que teme al cruzar.
-              FA             SOL  
+              FA             DO  
 Las fronteras que limitan lo conocido.
             SOL
 Allá mar adentro.
